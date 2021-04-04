@@ -4,11 +4,11 @@ from utils import fetch_reply
 
 app = Flask(__name__)
 
-@app.route('/')
+@app.route("/")
 def hello():
     return "HELLO WORLD"
 
-@app.route('/sms',methods=['POST'])
+@app.route("/sms",methods=['POST'])
 def sms_reply():
     msg = request.form.get('Body')
     phone_no = request.form.get('From')
