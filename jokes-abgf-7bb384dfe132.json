@@ -1,12 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "jokes-abgf",
-  "private_key_id": "7bb384dfe132874202b4cfaac21b47c2f5bf52fb",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCeP3BTY3wTGJC/\nvzP5TJp4YNALYcMw1k/396KytKoBw+4iCkBoFJyEz9Xp9VTSBgKbP/ApLIR+kaJP\nH2M5vsTinIpknkjTCaF5Io93Lj3r+s5lVxYwCAlA/q5o4vlLXwNUYP0lYRutw/Pw\nAJz4A8ItX7iVXeW0quAoho7fvvS/Et2ogS6M/9UPhzHwDswK6AP4Rq52H8DWekUA\ntvhzl/A+AdTff/2yPEXONcOXVuKaPjol29fXlvWW+ykjhekmGopXd56C4LZ+G2mB\n6XnMZKUUEqVZgZW1A23dXRk9hNRksTXY/s4RJHXQnqG1A7bnq7nzHCEqb/1IfUix\nvkvHhGJtAgMBAAECggEAH1SZiVT6wXAdZm01XdACDD/EqOA57C8eJY64fk+hEhjn\nyoMDleewxmW8qSWqnatVdEXQJ2K6N7HfM/GXrFzd76zFBJ9G9Utklg5W36Z+2Xvu\nRaeci7VnmZ/iyX7YkwjUaK4MKIyllX1kjDme2kaqOOAI9D+jJSYom7VqT5enrrV+\nT7OezjNFtl/Sc8r2IR8au/2kdbkOf4BKX9Cpl30FtvBloP8/ysuthhsBkNP0hu6i\nhZ+W/NDozgpjwSI80GXVCR0mCbPWVFpxG2xL1qhDJqeOFNz4pjZroQbKCDlFdhgs\n9U+DVRw46o3eUglwyn51ajUX4VEBp64mbhldgr/xsQKBgQDZcTlDO/GcZB587b2s\ne+z6ZEdNy7BaAniHRYzkvfjo1txbDm/PsouPkoHXECeGHXIqdBze9wNjOxbIxf9O\n0xJRkYEZj047OXBcTi0wutVxQTQq0UdBby2lSvT6+1YWTc8Z1ai/BHcfqQ4xcmYf\nYxbMhiU+rt0ZosN2RvzcxPeTEQKBgQC6TxYcav5t6GDpiZ29pv9DL/1B8vJxb87S\nH/Gd603OkR1TeUcNd+FcAgMYtiG+32nms06v8pjHK/+539Y5R8Iv3cc5Th1yvwC4\nLcs0tpU9FqlpFm4Ker1G9SL4AcnFckOtcnXV+nrqlPNruqlp2DOuQxo1lO8QFdCq\nvYG4AhohnQKBgGwV9RHvvSUxO1p8TvlrTJwWtr78Djhf3AvZzbRynkUXcMeugHPs\n26TNfc8qz4rCHlruBt/qR3vPBn9ctJE5KHT1cAgFjSyxW6H2lk4PwUOf1s+l4dar\n7jOo8+fCgcNqgBTmeRAipxhMz6pSpGLbvZyC3gavo2Y32xNzLASNwEcRAoGAdatd\nm7U33NLX4qg4KIBA2H6GxhBbb6neRnhGcicbjUu56e6/IZKFk0byDbl6tsMEb+Dv\n4dCnDaSMbykgdC0OSI0aNudPUhmwqqLBpRlsSJj3hpfUCGpdAWPyIhF/DmWMuQ+B\nvRPmbiKFW5UZSvByM63N7+mQ0+fzUuM9+qnZN0ECgYBs+uHAEGN7mf7IxS1pgCXg\nHVEM69khOQMVClqNivHC+TuD9v2davWsc2cO4aesFSUFJi//jnmePtO28YILII9x\n5Flge2Oy8txdRF4jP3YZR7MDi05mIK1NLTlSsh2AJN7ZFP1fGP1xtQJeYDABeyml\nRjg+DBIAoUnuKRsNhrvdjQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "joker-332@jokes-abgf.iam.gserviceaccount.com",
-  "client_id": "103706676813998496440",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/joker-332%40jokes-abgf.iam.gserviceaccount.com"
+ 
 }
